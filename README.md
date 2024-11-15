@@ -1,2 +1,2 @@
 # git_test
-Hello Odin
+Hello Odin!! I only want to edit from here and not github. Thanks for having me.
